@@ -37,7 +37,7 @@ while(opcion != 5):
                 #Como lo encontre muestro los datos de BandAuxiliar
               print(f"id: {bandAuxiliar["id"]} \n nombre: {bandAuxiliar["nombre"]} ")  
             else:
-                print("Parce siga buscando...")
+                print("Parce siga buscando... oooo")
          
     elif opcion == 3:
         print(bandas)
